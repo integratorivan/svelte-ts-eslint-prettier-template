@@ -1,2 +1,8 @@
-# svelte-ts-eslint-prettier-template
-Template svelte with: 
+# Svelte template 🧡 💥
+
+This template has:
+- **Prettier**
+- **Eslint**
+- **Vite**
+- **TypeScript**
+- **SvelteKit**
